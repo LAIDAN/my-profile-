@@ -1,0 +1,36 @@
+style.css
+
+
+
+h1,h2,h3 {
+color: red;
+font-size: 40px;
+font-family: "Helvetica", sans-serif;
+}
+
+
+body {
+background-image: url(images/fond.jpg);
+background-color: #DFDDDF
+text-align: justify;
+text-decoration: none;
+font-family: Arial, sans-serif;
+font-size: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+div {
+margin: 70px;
+padding: 20px; 
+background: lightblue;
+border-radius: 4px;
+box-shadow: 0 10px 30px;
+
+ .img-circle{
+  border-radius: 50%;
+}
